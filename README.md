@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-안녕하세요, 웹개발자 mayerssw 입니다.
+안녕하세요, 웹개발자 mayerssw 입니다. 뻥입니다.
 
 ### Platforms & Languages
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF)](#)
